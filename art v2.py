@@ -1,3 +1,7 @@
+'''
+Creates random images based on range value.
+'''
+
 import random
 import uuid
 
